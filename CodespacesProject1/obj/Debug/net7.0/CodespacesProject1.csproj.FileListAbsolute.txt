@@ -1,0 +1,15 @@
+/workspaces/CodespacesProject1/CodespacesProject1/bin/Debug/net7.0/CodespacesProject1
+/workspaces/CodespacesProject1/CodespacesProject1/bin/Debug/net7.0/CodespacesProject1.deps.json
+/workspaces/CodespacesProject1/CodespacesProject1/bin/Debug/net7.0/CodespacesProject1.runtimeconfig.json
+/workspaces/CodespacesProject1/CodespacesProject1/bin/Debug/net7.0/CodespacesProject1.dll
+/workspaces/CodespacesProject1/CodespacesProject1/bin/Debug/net7.0/CodespacesProject1.pdb
+/workspaces/CodespacesProject1/CodespacesProject1/obj/Debug/net7.0/CodespacesProject1.csproj.AssemblyReference.cache
+/workspaces/CodespacesProject1/CodespacesProject1/obj/Debug/net7.0/CodespacesProject1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CodespacesProject1/CodespacesProject1/obj/Debug/net7.0/CodespacesProject1.AssemblyInfoInputs.cache
+/workspaces/CodespacesProject1/CodespacesProject1/obj/Debug/net7.0/CodespacesProject1.AssemblyInfo.cs
+/workspaces/CodespacesProject1/CodespacesProject1/obj/Debug/net7.0/CodespacesProject1.csproj.CoreCompileInputs.cache
+/workspaces/CodespacesProject1/CodespacesProject1/obj/Debug/net7.0/CodespacesProject1.dll
+/workspaces/CodespacesProject1/CodespacesProject1/obj/Debug/net7.0/refint/CodespacesProject1.dll
+/workspaces/CodespacesProject1/CodespacesProject1/obj/Debug/net7.0/CodespacesProject1.pdb
+/workspaces/CodespacesProject1/CodespacesProject1/obj/Debug/net7.0/CodespacesProject1.genruntimeconfig.cache
+/workspaces/CodespacesProject1/CodespacesProject1/obj/Debug/net7.0/ref/CodespacesProject1.dll
